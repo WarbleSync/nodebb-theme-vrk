@@ -1,6 +1,7 @@
 {
-    "id": "nodebb-theme-quickstart",
-    "name": "My Theme Name",
-    "description": "Enter a description here",
-    "url": "https://github.com/nodebb/nodebb-theme-quickstart"
+    "id": "nodebb-theme-vrk",
+    "name": "VRK 2017",
+    "description": "Custom theme for NodeBB",
+    "url": "https://github.com/WarbleSync/nodebb-theme-vrk",
+    "screenshot": "screenshot.png"
 }
