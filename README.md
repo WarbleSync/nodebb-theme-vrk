@@ -7,3 +7,4 @@ This repository contains a custom theme based off of the [Persona theme](https:/
 
 Material theme by [pichalite](https://github.com/pichalite).
 Quickstart Theme NodeBB [git](https://github.com/NodeBB/nodebb-theme-quickstart)
+ 
