@@ -1,7 +1,7 @@
 {
-  "name": "nodebb-theme-quickstart",
-  "version": "0.0.0",
-  "description": "Enter a description here",
+  "name": "nodebb-theme-vrk",
+  "version": "1.0.0",
+  "description": "Custom NodeBB theme for VRK",
   "main": "theme.less",
   "keywords": [
 
